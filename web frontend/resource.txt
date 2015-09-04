@@ -105,3 +105,8 @@ wordpress 基础知识
 https://blog.alphatr.com/to-wordpress-novice.html
 http协议详解
 http://www.blogjava.net/AlanLiu/archive/2012/04/16/374773.html
+Oauth2.0
+http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html
+restful_api
+http://www.ruanyifeng.com/blog/2014/05/restful_api.html
+http://www.ruanyifeng.com/blog/2011/09/restful.html
