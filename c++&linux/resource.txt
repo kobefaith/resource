@@ -1,0 +1,38 @@
+自己动手创造变成语言
+http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/
+http://www.geeksforgeeks.org/
+http://blog.jobbole.com/67880/
+
+linux导论
+http://mooc.guokr.com/course/1103/Introduction-to-Linux/
+高性能服务器架构
+http://blog.csdn.net/zhoudaxia/article/details/14223755
+c语言实现的虚拟机
+https://github.com/tekknolagi/carp
+自己实现malloc
+http://blog.codinglabs.org/articles/a-malloc-tutorial.html
+c++代码优化的27条建议
+http://blog.jobbole.com/67880/
+微小内核
+https://github.com/EtchedPixels/FUZIX
+linux 同步工具
+http://segmentfault.com/blog/seanlook/1190000002427568
+C 程序的函数栈作用机理
+http://segmentfault.com/blog/mrrightleft_qinlei/1190000002431457
+Linux 性能监测专题
+http://linux.cn/topic-linux-system-performance-monitoring.html
+张银奎 软件调试课程
+http://boolan.com/course/11
+从0写个编译器
+http://segmentfault.com/bookmark/1230000002478664
+Make 命令教程
+http://www.ruanyifeng.com/blog/2015/02/make.html
+服务端linux命令
+http://segmentfault.com/bookmark/1230000000644458
+虚拟机与主机共享文件
+http://www.2cto.com/os/201207/142142.html
+http://jingyan.baidu.com/article/7f766daf7866be4101e1d0ed.html
+
+notepad++源码分析
+http://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=207475574&idx=1&sn=104786aed18f43c68c83a145c70db924&scene=2&from=timeline&isappinstalled=0#rd
+

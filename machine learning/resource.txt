@@ -1,0 +1,77 @@
+用javascript写神经网络
+http://karpathy.github.io/neuralnets/
+常见机器学习面试算法
+http://mp.weixin.qq.com/s?__biz=MzA4NjA4MTkzMw==&mid=201361731&idx=4&sn=14af26e71533ad463c1a9ed6be70422a&scene=2&from=timeline&isappinstalled=0#rd
+美国大数据面试攻略
+http://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=200452697&idx=1&sn=d7f0de7d1e35d5417467ede3e4123ece&scene=2&from=timeline&isappinstalled=0#rd
+Andrew Moore 机器学习算法教程http://www.autonlab.org/tutorials/  初学者用
+深度学习学习笔记
+http://blog.csdn.net/zouxy09/article/details/8775360
+Spark介绍
+https://github.com/JerryLead/SparkInternals/tree/master/markdown
+http://www.52nlp.cn/python-网页爬虫-文本处理-科学计算-机器学习-数据挖掘
+http://bigdata.memect.com/?tag=MachineLearning+SummerSchool2014
+http://www.52nlp.cn/digitalocean使用小记
+Tom Mitchell机器学习视频
+http://videolectures.net/mlas06_mitchell_sla/
+http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
+斯坦福机器学习课程网址
+http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B
+Alex Smola和Geoff Gordon本学期讲授2013秋季版的CMU博士级别「机器学习」课程。视频和幻灯片均可同步下载：http://t.cn/z8NbpGz 
+http://alex.smola.org/teaching/cmu2013-10-701x/
+康奈尔计算机系Thorsten Joachims的《机器学习》课程http://machine-learning-course.joachims.org/
+Social Analysis”是一个致力于推动社交网络相关的科学、工程以及应用的开源社区。社区同时提供定制和公众的服务，并且鼓励工程师、研究员之间交流以及共享。”Social Analysis”倡导的是开放、创新、诚实，致力于建立一个健康有序的开源生态环境，促进思想的交流和资源的共享。
+http://socialysis.org/?lang=zh
+
+Python学习资料：
+https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md
+Python机器学习库:
+http://www.52ml.net/13547.html
+伯克利 AMP LAB资源
+http://cloud.berkeley.edu/
+加州理工学院视频
+http://work.caltech.edu/library/
+http://weekly.manong.io/issues/11
+http://suanfazu.com/discussion/68/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E8%AE%BA%E6%96%87survey%E5%90%88%E9%9B%86?utm_campaign=Manong_Weekly_Issue_11&utm_medium=EDM&utm_source=Manong_Weekly
+林仕鼎的课
+http://pan.baidu.com/s/1enhKy
+开源系统软件
+http://www.resyschina.com/2014/02/open-source-recsys.html
+网络安全相关资源
+http://code.google.com/p/it-sec-catalog/wiki/Exploitation
+简单的深度神经网络
+http://eric-yuan.me/simple-deep-network/
+pca
+http://sebastianraschka.com/Articles/2014_pca_step_by_step.html
+深度学习
+http://www.52ml.net/6.html
+高级数据结构
+http://courses.csail.mit.edu/6.851/spring12/lectures/
+流量劫持是如何产生的
+http://fex.baidu.com/blog/2014/04/traffic-hijack/
+
+流量劫持能有多大危害？
+http://fex.baidu.com/blog/2014/04/traffic-hijack-2/
+斯坦福 ios课程
+http://www.stanford.edu/class/cs193p/cgi-bin/drupal/
+我爱机器学习
+http://www.52ml.net/14844.html
+TCP IP 疑难杂症
+http://blog.csdn.net/dog250/article/details/6612496
+搜索引擎
+http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html?ca=drs-
+http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy2/index.html?ca=drs-
+http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy3/index.html?ca=drs-
+机器学习论文
+http://www.mlsurveys.com/
+Java多线程面试题
+http://ifeve.com/15-java-faq/
+机器学习代码心得之有监督学习的模块
+http://weibo.com/p/1001603795687165852957
+http://weibo.com/p/1001603795714256832384
+Neural Networks and Deep Learning深入浅出、图文并茂的介绍了神经网络及深度学习的基本原理、算法及应用实践（有例子、有代码、有练习...）。对此领域感兴趣的初学者值得看一看。 目前发布到第五章，持续更新中...
+http://neuralnetworksanddeeplearning.com/index.html
+Logistic regression （逻辑回归） 概述
+http://hi.baidu.com/hehehehello/item/40025c33d7d9b7b9633aff87#rd
+数学之美番外篇：平凡而又神奇的贝叶斯方法
+http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/

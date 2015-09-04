@@ -1,0 +1,14 @@
+XKMF-0013-0248-0809-5353
+破壳漏洞分析
+http://www.antiy.com/response/Analysis_Report_on_Sample_Set_of_Bash_Shellshock.html
+SSLStrip 的未来 —— HTTPS 前端劫持
+http://fex.baidu.com/blog/2014/08/ssl-frontend-hijack/
+
+爬虫
+http://drops.wooyun.org/tips/3831
+IE漏洞分析
+http://blog.trendmicro.com/trendlabs-security-intelligence/root-cause-analysis-of-cve-2014-1772-an-internet-explorer-use-after-free-vulnerability/
+一个超级强悍的抓包工具，可以抓取https协议的
+https://hyperfox.org/
+缓冲区溢出攻击相关知识
+http://segmentfault.com/a/1190000002610363?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
